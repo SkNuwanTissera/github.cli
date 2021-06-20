@@ -1,6 +1,6 @@
 # github.cli
 
-# GitHub CLI
+## Testing GitHub CLI
 GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place.
 
 In this article
